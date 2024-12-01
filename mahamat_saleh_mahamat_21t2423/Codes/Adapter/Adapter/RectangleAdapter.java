@@ -1,4 +1,7 @@
-package Codes.adapter;
+package Codes.Adapter.Adapter;
+
+import Codes.Adapter.Adaptee.Rectangle;
+import Codes.Adapter.Interface.Carre;
 
 // Class Adapter
 public class RectangleAdapter implements Carre{

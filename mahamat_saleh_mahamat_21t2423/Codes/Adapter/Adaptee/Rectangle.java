@@ -1,4 +1,4 @@
-package Codes.adapter;
+package Codes.Adapter.Adaptee;
 
 // Classe adaptee
 public class Rectangle {

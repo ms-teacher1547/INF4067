@@ -1,4 +1,4 @@
-package Codes.adapter;
+package Codes.Adapter.Interface;
 
 // Interface
 public interface Carre {

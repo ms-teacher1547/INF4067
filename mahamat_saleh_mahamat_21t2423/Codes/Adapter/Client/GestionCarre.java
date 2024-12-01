@@ -1,4 +1,8 @@
-package Codes.adapter;
+package Codes.Adapter.Client;
+
+import Codes.Adapter.Adaptee.Rectangle;
+import Codes.Adapter.Adapter.RectangleAdapter;
+import Codes.Adapter.Interface.Carre;
 
 // Client
 public class GestionCarre {
